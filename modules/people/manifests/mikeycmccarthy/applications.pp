@@ -3,4 +3,7 @@ class people::mikeycmccarthy::applications {
   include skype
   include firefox
   include chrome
+  include vagrant
+  include virtualbox
+  include sourcetree
 }
