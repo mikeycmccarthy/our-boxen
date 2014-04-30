@@ -6,4 +6,7 @@ class people::mikeycmccarthy::applications {
   include vagrant
   include virtualbox
   include sourcetree
+  include googledrive
+  include wget
+  include iterm2::stable
 }
