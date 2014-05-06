@@ -71,3 +71,4 @@ github "googledrive",     "1.0.2"
 github 'iterm2',   '1.0.9'
 github 'firefox',   '1.1.9'
 github "osx",        "2.2.2"
+github "kindle",        "1.0.1"
