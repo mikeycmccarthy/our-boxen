@@ -10,4 +10,5 @@ class people::mikeycmccarthy::applications {
   include wget
   include iterm2::stable
   include kindle
+  include cyberduck
 }

@@ -73,3 +73,4 @@ github 'firefox',   '1.1.9'
 github "osx",        "2.4.0"
 github "kindle",        "1.0.1"
 github "zsh",        "1.0.0"
+github "cyberduck",        "1.0.1"
