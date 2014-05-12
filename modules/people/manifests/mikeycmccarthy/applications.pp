@@ -11,5 +11,5 @@ class people::mikeycmccarthy::applications {
   include iterm2::stable
   include kindle
   include cyberduck
-
+  include quicksilver
 }
