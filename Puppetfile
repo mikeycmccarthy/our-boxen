@@ -29,7 +29,7 @@ end
 # Includes many of our custom types and providers, as well as global
 # config. Required.
 
-github "boxen", "3.4.2"
+github "boxen", "3.6.1"
 
 # Support for default hiera data in modules
 
@@ -61,14 +61,14 @@ github "xquartz",     "1.1.1"
 # https://github.com/boxen.
 
 github "skype",     "1.0.8"
-github "vagrant",     "3.0.7"
+github "vagrant",     "3.0.9"
 github "virtualbox",     "1.0.11"
 github "chrome",     "1.1.2"
 github "wget",     "1.0.1"
 github "dropbox",     "1.2.0"
 github "googledrive",     "1.0.2"
-github 'iterm2',   '1.0.9'
-github 'firefox',   '1.1.9'
+github 'iterm2',   '1.1.0'
+github 'firefox',   '1.2.0'
 github "osx",        "2.5.0"
 github "kindle",        "1.0.1"
 github "zsh",        "1.0.0"
