@@ -4,6 +4,11 @@ GITHUBTARBALL
     boxen (3.6.1)
 
 GITHUBTARBALL
+  remote: boxen/puppet-calibre
+  specs:
+    calibre (3.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-chrome
   specs:
     chrome (1.1.2)
@@ -77,11 +82,6 @@ GITHUBTARBALL
   remote: boxen/puppet-kindle
   specs:
     kindle (1.0.1)
-
-GITHUBTARBALL
-  remote: boxen/puppet-nginx
-  specs:
-    nginx (1.4.3)
 
 GITHUBTARBALL
   remote: boxen/puppet-nodejs
@@ -175,6 +175,7 @@ GITHUBTARBALL
 
 DEPENDENCIES
   boxen (= 3.6.1)
+  calibre (= 3.1.0)
   chrome (= 1.1.2)
   cyberduck (= 1.0.1)
   dnsmasq (= 1.0.1)
@@ -192,7 +193,6 @@ DEPENDENCIES
   iterm2 (= 1.1.0)
   kindle (= 1.0.1)
   module-data (= 0.0.3)
-  nginx (= 1.4.3)
   nodejs (= 3.7.0)
   openssl (= 1.0.0)
   osx (= 2.5.0)

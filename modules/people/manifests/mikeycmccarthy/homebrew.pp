@@ -4,7 +4,8 @@ class people::mikeycmccarthy::homebrew {
     [
       'docker',
       'boot2docker',
-      'chrome-cli'
+      'chrome-cli',
+      'unrar'
     ]:
   }
 

@@ -12,4 +12,5 @@ class people::mikeycmccarthy::applications {
   include kindle
   include cyberduck
   include quicksilver
+  include calibre
 }
