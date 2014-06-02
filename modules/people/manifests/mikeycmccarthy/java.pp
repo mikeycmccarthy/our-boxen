@@ -4,7 +4,8 @@ class people::mikeycmccarthy::java {
 
   package {
     [
-      'maven'
+      'maven',
+      'groovy'
     ]:
   }
 
