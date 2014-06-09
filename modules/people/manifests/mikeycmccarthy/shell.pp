@@ -15,6 +15,7 @@ class people::mikeycmccarthy::shell {
    }
 
    include zsh
+   include python
 
    repository { "/Users/${boxen_user}/.oh-my-zsh":
     source => 'robbyrussell/oh-my-zsh',
