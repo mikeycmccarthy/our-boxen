@@ -4,6 +4,7 @@ class people::mikeycmccarthy::homebrew {
     [
       'docker',
       'boot2docker',
+      'ansible',
       'chrome-cli'
     ]:
   }
