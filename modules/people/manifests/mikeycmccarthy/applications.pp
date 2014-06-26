@@ -13,4 +13,5 @@ class people::mikeycmccarthy::applications {
   include cyberduck
   include quicksilver
   include calibre
+  include evernote
 }
