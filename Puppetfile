@@ -66,7 +66,7 @@ github "chrome",     "1.1.2"
 github "wget",     "1.0.1"
 github "dropbox",     "1.2.0"
 github "googledrive",     "1.0.2"
-github 'iterm2',   '1.1.1'
+github 'iterm2',   '1.1.2'
 github 'firefox',   '1.2.0'
 github "osx",        "2.7.0"
 github "kindle",        "1.0.1"
