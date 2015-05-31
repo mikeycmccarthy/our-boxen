@@ -14,6 +14,13 @@ class people::mikeycmccarthy::shell {
      require => Repository[$dotfiles]
    }
 
+   file { "${home}/.warprc":
+     ensure  => link,
+     mode  => '0644',
+     target  => "${dotfiles}/.warprc",
+     require => Repository[$dotfiles]
+   }
+
    include zsh
 
    repository { "/Users/${boxen_user}/.oh-my-zsh":
